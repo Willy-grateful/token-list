@@ -108022,6 +108022,20 @@
       "extensions": {
         "twitter": "https://twitter.com/babyrappergank"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "4ChVsQWB34vXCYU4mKjd74KK9LoUnXEmkyPsfkKinQ1U",
+      "symbol": "DNV",
+      "name": "DeNirvana Token",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4ChVsQWB34vXCYU4mKjd74KK9LoUnXEmkyPsfkKinQ1U/logo/logo.png",
+      "tags": [
+        "utility-token",
+      ],
+      "extensions": {
+        "website": "https://www.denirvana.com"
+      }
     }
   ],
   "version": {
